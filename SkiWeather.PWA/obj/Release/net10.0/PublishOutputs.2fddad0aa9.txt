@@ -1,0 +1,4 @@
+A:\Personal Projects\Snowboard Weather\publish\wwwroot\index.html
+A:\Personal Projects\Snowboard Weather\publish\SkiWeather.PWA.runtimeconfig.json
+A:\Personal Projects\Snowboard Weather\publish\dotnet.js
+A:\Personal Projects\Snowboard Weather\publish\web.config

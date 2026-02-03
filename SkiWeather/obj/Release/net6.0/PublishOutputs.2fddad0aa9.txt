@@ -1,0 +1,6 @@
+A:\Personal Projects\Snowboard Weather\publish\SkiWeather.dll
+A:\Personal Projects\Snowboard Weather\publish\SkiWeather.deps.json
+A:\Personal Projects\Snowboard Weather\publish\SkiWeather.pdb
+A:\Personal Projects\Snowboard Weather\publish\Google.FlatBuffers.dll
+A:\Personal Projects\Snowboard Weather\publish\OpenMeteo.dll
+A:\Personal Projects\Snowboard Weather\publish\openmeteo_sdk.dll

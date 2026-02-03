@@ -1,0 +1,13 @@
+A:\Personal Projects\Snowboard Weather\SkiWeather\bin\Release\net6.0\SkiWeather.deps.json
+A:\Personal Projects\Snowboard Weather\SkiWeather\bin\Release\net6.0\SkiWeather.dll
+A:\Personal Projects\Snowboard Weather\SkiWeather\bin\Release\net6.0\SkiWeather.pdb
+A:\Personal Projects\Snowboard Weather\SkiWeather\obj\Release\net6.0\SkiWeather.csproj.AssemblyReference.cache
+A:\Personal Projects\Snowboard Weather\SkiWeather\obj\Release\net6.0\SkiWeather.GeneratedMSBuildEditorConfig.editorconfig
+A:\Personal Projects\Snowboard Weather\SkiWeather\obj\Release\net6.0\SkiWeather.AssemblyInfoInputs.cache
+A:\Personal Projects\Snowboard Weather\SkiWeather\obj\Release\net6.0\SkiWeather.AssemblyInfo.cs
+A:\Personal Projects\Snowboard Weather\SkiWeather\obj\Release\net6.0\SkiWeather.csproj.CoreCompileInputs.cache
+A:\Personal Projects\Snowboard Weather\SkiWeather\obj\Release\net6.0\SkiWeather.sourcelink.json
+A:\Personal Projects\Snowboard Weather\SkiWeather\obj\Release\net6.0\SkiWeather.dll
+A:\Personal Projects\Snowboard Weather\SkiWeather\obj\Release\net6.0\refint\SkiWeather.dll
+A:\Personal Projects\Snowboard Weather\SkiWeather\obj\Release\net6.0\SkiWeather.pdb
+A:\Personal Projects\Snowboard Weather\SkiWeather\obj\Release\net6.0\ref\SkiWeather.dll
