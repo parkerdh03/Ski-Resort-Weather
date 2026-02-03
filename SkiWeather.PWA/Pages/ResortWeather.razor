@@ -1,0 +1,61 @@
+@page "/resort/{Name}"
+@using SkiWeather
+@inject WeatherService WeatherService
+
+<h1>@Name</h1>
+
+@if (forecast == null)
+{
+    <p>Loading forecast...</p>
+}
+else
+{
+    <div class="week-grid">
+        @foreach (var day in DailyData)
+        {
+            <div class="day-card">
+                <h4>@day.Date.ToString("ddd")</h4>
+                <p>High: @day.High°F</p>
+                <p>Low: @day.Low°F</p>
+                <p>Snow: @day.Snow in</p>
+            </div>
+        }
+    </div>
+}
+
+@code {
+    [Parameter] public string Name { get; set; } = default!;
+    private Forecast? forecast;
+
+    private record DaySummary(DateTime Date, double High, double Low, double Snow);
+    private List<DaySummary> DailyData = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        var resort = ResortData.GetResorts().First(r => r.Name == Name);
+        forecast = await WeatherService.GetForecastAsync(resort);
+
+        BuildDailySummaries();
+    }
+
+    private void BuildDailySummaries()
+    {
+        for (int d = 0; d < 7; d++)
+        {
+            var date = DateTime.Today.AddDays(d);
+
+            var indices = forecast!.Hourly.Time
+                .Select((t, i) => new { t, i })
+                .Where(x => DateTime.Parse(x.t).Date == date)
+                .Select(x => x.i)
+                .ToList();
+
+            if (indices.Count == 0) continue;
+
+            var temps = indices.Select(i => forecast.Hourly.Temperature2m[i]).ToList();
+            var snow = indices.Select(i => forecast.Hourly.Snowfall[i]).Sum();
+
+            DailyData.Add(new DaySummary(date, temps.Max(), temps.Min(), snow));
+        }
+    }
+}

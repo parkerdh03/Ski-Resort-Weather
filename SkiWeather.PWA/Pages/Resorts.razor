@@ -1,0 +1,46 @@
+@page "/"
+@page "/resorts"
+@using SkiWeather
+@using SkiWeather.PWA.Components
+@inject WeatherService WeatherService
+@inject NavigationManager Nav
+
+<h1>Resorts</h1>
+
+@if (resorts == null)
+{
+    <p>Loading resorts...</p>
+}
+else
+{
+    <div class="resort-grid">
+        @foreach (var resort in resorts)
+        {
+            <ResortCard 
+                Resort="resort"
+                WeeklySnowfall="@(snowfall.ContainsKey(resort.Name) ? snowfall[resort.Name] : 0)"
+                OnClick="@(() => GoToDetails(resort))" />
+        }
+    </div>
+}
+
+@code {
+    private List<Resort>? resorts;
+    private Dictionary<string, double> snowfall = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        resorts = ResortData.GetResorts();
+
+        foreach (var resort in resorts)
+        {
+            var forecast = await WeatherService.GetForecastAsync(resort);
+            snowfall[resort.Name] = forecast.Hourly.Snowfall.Take(24 * 7).Sum();
+        }
+    }
+
+    private void GoToDetails(Resort resort)
+    {
+        Nav.NavigateTo($"/resort/{resort.Name}");
+    }
+}

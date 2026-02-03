@@ -1,0 +1,20 @@
+﻿using SkiWeather;
+
+var resorts = ResortData.GetResorts();
+
+foreach (var resort in resorts)
+{
+    var forecast = await Weather.GetForecastAsync(resort);
+
+    Console.WriteLine($"{resort.Name}");
+
+    for (int i = 0; i < 6; i++)
+    {
+        Console.WriteLine(
+            $"{forecast.Hourly.Time[i]} | " +
+            $"{forecast.Hourly.Temperature2m[i]}°F | " +
+            $"{forecast.Hourly.Snowfall[i]} in"
+        );
+    }
+    
+}

@@ -1,0 +1,28 @@
+<div class="resort-card" @onclick="OnClick">
+    <h3>@Resort.Name</h3>
+    <div class="@SnowClass">
+        ❄️ @WeeklySnowfall in this week
+    </div>
+
+</div>
+
+@code {
+    [Parameter] public Resort Resort { get; set; } = default!;
+    [Parameter] public double WeeklySnowfall { get; set; }
+    [Parameter] public EventCallback OnClick { get; set; }
+
+    private string SnowClass
+    {
+        get
+        {
+            if (WeeklySnowfall == 0)
+                return "no-snow";
+            if (WeeklySnowfall < 1)
+                return "snow-low";
+            if (WeeklySnowfall < 5)
+                return "snow-medium";
+            return "snow-high";
+        }
+    }
+
+}
