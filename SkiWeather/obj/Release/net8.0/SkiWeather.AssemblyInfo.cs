@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SkiWeather")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+308a5061dd9d1c6e1a0544bb06aec77b89c5bcb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25f1aa89f3c6d1dde37171eed0f003202dbbb66c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SkiWeather")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SkiWeather")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

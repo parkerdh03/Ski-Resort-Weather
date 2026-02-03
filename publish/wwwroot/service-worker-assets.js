@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "Qh/5Me0f",
+  "version": "jfXA0h1R",
   "assets": [
     {
       "hash": "sha256-N8eB/+j4z31O+CCZwpb6sa+ec+KNjo+J9QsLbFUdclw=",
@@ -10,7 +10,7 @@ self.assetsManifest = {
       "url": "_framework/Google.FlatBuffers.wasm"
     },
     {
-      "hash": "sha256-ZUWy/LhoKC2IK3Cd9zM0e+ia7fH5uIEHbZHry7N++rU=",
+      "hash": "sha256-eRS2kLDguVW0fF9GB3d9SvgPohIH8VogNFKhV4TJSLE=",
       "url": "_framework/Microsoft.AspNetCore.Components.Web.wasm"
     },
     {
@@ -70,11 +70,11 @@ self.assetsManifest = {
       "url": "_framework/OpenMeteo.wasm"
     },
     {
-      "hash": "sha256-ObYyAFmhGy65q+Kx5ABUSZP8uy8Tbe4nhBeDLc0KfAQ=",
+      "hash": "sha256-0pINT5PZHfTA1ktd7DVsojvgI2w/1NagySKV+U4FdlM=",
       "url": "_framework/SkiWeather.PWA.wasm"
     },
     {
-      "hash": "sha256-pkFDsixZc1Vde/TB0Do5jsj/YY84E9NNuyUmHv9SFes=",
+      "hash": "sha256-H1m4RVTCgu5+dYDrDyvS2w3G4/n8VTzwsuaozDsq818=",
       "url": "_framework/SkiWeather.wasm"
     },
     {
@@ -150,7 +150,7 @@ self.assetsManifest = {
       "url": "_framework/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-dg+ufKW1t7F+vBL31OEbgyobW5zGtnRdVIJ51ENwXbs=",
+      "hash": "sha256-IQ/D86UzmYeCAinzTZnCA8ANv2YeSv9IxdiWPlX835k=",
       "url": "_framework/blazor.boot.json"
     },
     {

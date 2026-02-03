@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SkiWeather.PWA",
   "resources": {
-    "hash": "sha256-J0SAih5XSbrAkb56bl/374h/Dljv6Hq+abJC3Ljh9QM=",
+    "hash": "sha256-bRMWD+yxpQk9DQ9D8Rz31VUZcfEkQSArIqAZzpjuKPA=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-NljIbpK/1KCj0+knpX8U77Rbl5kTtfFIuFjK7AuczEw="
     },
@@ -19,7 +19,7 @@
     "coreAssembly": {},
     "assembly": {
       "Google.FlatBuffers.wasm": "sha256-N079dY9i+R2gTJuGEv7lVSSMtrncFb88crym9gS4Y7g=",
-      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-ZUWy/LhoKC2IK3Cd9zM0e+ia7fH5uIEHbZHry7N++rU=",
+      "Microsoft.AspNetCore.Components.Web.wasm": "sha256-eRS2kLDguVW0fF9GB3d9SvgPohIH8VogNFKhV4TJSLE=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-seVtoNDfzQciXue3LvPvIMA9hgox3tYbXZ3mK/GMOpI=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-r2g4f3X1HyFAGMR2SqTgWOzeHrOv0LFuM9dbc/JUi8U=",
       "Microsoft.Extensions.Configuration.Abstractions.wasm": "sha256-XR+WUfg8LtnrwdXFBnV+qO3ROyp6cYCfl1AZajIAheM=",
@@ -34,8 +34,8 @@
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-Px6z5DU/gBGylV4ob9sdcAVH4KKxpByP7WNTn+lZUro=",
       "Microsoft.JSInterop.wasm": "sha256-5YCTBeqPLBCgnNIAwn6sgKyBKS13Ooms1CiP1kN6el8=",
       "OpenMeteo.wasm": "sha256-yxT/wDUSWhBSBgOJhm7FM7F/jVdBRvBYOff+Tug/Uw8=",
-      "SkiWeather.PWA.wasm": "sha256-ObYyAFmhGy65q+Kx5ABUSZP8uy8Tbe4nhBeDLc0KfAQ=",
-      "SkiWeather.wasm": "sha256-pkFDsixZc1Vde/TB0Do5jsj/YY84E9NNuyUmHv9SFes=",
+      "SkiWeather.PWA.wasm": "sha256-0pINT5PZHfTA1ktd7DVsojvgI2w/1NagySKV+U4FdlM=",
+      "SkiWeather.wasm": "sha256-H1m4RVTCgu5+dYDrDyvS2w3G4/n8VTzwsuaozDsq818=",
       "System.Collections.Concurrent.wasm": "sha256-6BbpdM2NWJimhErpzrCAEVQEvU038OV7DMkbOfSfym0=",
       "System.Collections.wasm": "sha256-O9aybf3WameB1961ft36M1OysWgVMvNq8Z+gZb4EZK4=",
       "System.ComponentModel.wasm": "sha256-eASv6/hAr1v6bTy5jSaaiSY0JytxSFaCOpEL+lcGP7A=",

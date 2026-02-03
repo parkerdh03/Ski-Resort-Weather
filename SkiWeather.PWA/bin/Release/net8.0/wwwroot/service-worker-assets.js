@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "EGJZ7Z7X",
+  "version": "pWnSLodT",
   "assets": [
     {
       "hash": "sha256-N8eB/+j4z31O+CCZwpb6sa+ec+KNjo+J9QsLbFUdclw=",
@@ -122,19 +122,19 @@ self.assetsManifest = {
       "url": "_framework/OpenMeteo.wasm"
     },
     {
-      "hash": "sha256-z1XJrs4O//hBUtC9XN0fb+c2z5vczARi91FYpu01Aiw=",
+      "hash": "sha256-Bqm8ESQ5bqvwNPrhcfEgvHtvQYcLO8cjaU6F/FkCGt8=",
       "url": "_framework/SkiWeather.PWA.pdb"
     },
     {
-      "hash": "sha256-ObYyAFmhGy65q+Kx5ABUSZP8uy8Tbe4nhBeDLc0KfAQ=",
+      "hash": "sha256-0pINT5PZHfTA1ktd7DVsojvgI2w/1NagySKV+U4FdlM=",
       "url": "_framework/SkiWeather.PWA.wasm"
     },
     {
-      "hash": "sha256-5Xq6ibm9CjLx4MFJqya0SJ6AWakK/QWFft8lFZwZ4Uo=",
+      "hash": "sha256-Avi2+Tn/rfdHOGEx6Uy1HgSDnPVGuliH59ZHDRkAvwM=",
       "url": "_framework/SkiWeather.pdb"
     },
     {
-      "hash": "sha256-pkFDsixZc1Vde/TB0Do5jsj/YY84E9NNuyUmHv9SFes=",
+      "hash": "sha256-H1m4RVTCgu5+dYDrDyvS2w3G4/n8VTzwsuaozDsq818=",
       "url": "_framework/SkiWeather.wasm"
     },
     {
@@ -786,7 +786,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.wasm"
     },
     {
-      "hash": "sha256-zaxfA1rSUnTmtNVOCP5vqbKrfoMzbF7XeRfjR8m3w2g=",
+      "hash": "sha256-Ig7+0Ju2XYDFYOXG4zSxkHLPhu4CE6w+SdqwlTEKX7E=",
       "url": "_framework/blazor.boot.json"
     },
     {

@@ -1051,11 +1051,6 @@ A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compres
 A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\a3djubyiq1-{0}-tptq2av103-tptq2av103.gz
 A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\zcnrlaim85-{0}-lfu7j35m59-lfu7j35m59.gz
 A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\cucz9tua57-{0}-oyz0vx2fzb-oyz0vx2fzb.gz
-A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\pl5f3clwnn-{0}-q3u1bedtic-q3u1bedtic.gz
-A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\z76h0qhmsv-{0}-ntv0w5lh9l-ntv0w5lh9l.gz
-A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\xwf6726bvc-{0}-zlvv45663y-zlvv45663y.gz
-A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\4cmr16ymyn-{0}-r54nlryxpo-r54nlryxpo.gz
-A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\a1b9wtnyuc-{0}-7ridbae6ak-7ridbae6ak.gz
 A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\staticwebassets.build.json
 A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\staticwebassets.build.json.cache
 A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\staticwebassets.development.json
@@ -1066,3 +1061,8 @@ A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\SkiWeat
 A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\refint\SkiWeather.PWA.dll
 A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\SkiWeather.PWA.pdb
 A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\ref\SkiWeather.PWA.dll
+A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\pl5f3clwnn-{0}-bh3egoa1ws-bh3egoa1ws.gz
+A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\z76h0qhmsv-{0}-el4fjou0q2-el4fjou0q2.gz
+A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\xwf6726bvc-{0}-qhj26an06r-qhj26an06r.gz
+A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\4cmr16ymyn-{0}-iej3ikv74l-iej3ikv74l.gz
+A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\obj\Release\net8.0\compressed\a1b9wtnyuc-{0}-ewhhdko0y2-ewhhdko0y2.gz
