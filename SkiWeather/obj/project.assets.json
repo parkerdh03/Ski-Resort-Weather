@@ -1,14 +1,14 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
+    "net8.0": {
       "Google.FlatBuffers/24.3.25": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Google.FlatBuffers.dll": {}
+          "lib/net8.0/Google.FlatBuffers.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Google.FlatBuffers.dll": {}
+          "lib/net8.0/Google.FlatBuffers.dll": {}
         }
       },
       "OpenMeteo/1.0.1": {
@@ -18,10 +18,10 @@
           "openmeteo_sdk": "1.11.3"
         },
         "compile": {
-          "lib/net6.0/OpenMeteo.dll": {}
+          "lib/net8.0/OpenMeteo.dll": {}
         },
         "runtime": {
-          "lib/net6.0/OpenMeteo.dll": {}
+          "lib/net8.0/OpenMeteo.dll": {}
         }
       },
       "openmeteo_sdk/1.11.3": {
@@ -30,10 +30,10 @@
           "Google.FlatBuffers": "24.3.7"
         },
         "compile": {
-          "lib/net6.0/openmeteo_sdk.dll": {}
+          "lib/net8.0/openmeteo_sdk.dll": {}
         },
         "runtime": {
-          "lib/net6.0/openmeteo_sdk.dll": {}
+          "lib/net8.0/openmeteo_sdk.dll": {}
         }
       }
     }
@@ -89,7 +89,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net6.0": [
+    "net8.0": [
       "OpenMeteo >= 1.0.1"
     ]
   },
@@ -109,14 +109,14 @@
         "C:\\Users\\randa\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -133,8 +133,8 @@
       "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "OpenMeteo": {
             "target": "Package",
@@ -155,15 +155,15 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
+            "version": "[8.0.23, 8.0.23]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
+            "version": "[8.0.23, 8.0.23]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[6.0.36, 6.0.36]"
+            "version": "[8.0.23, 8.0.23]"
           }
         ],
         "frameworkReferences": {
@@ -171,7 +171,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

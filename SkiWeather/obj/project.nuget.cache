@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "UaF0LfFk074=",
+  "dgSpecHash": "UwDqAX1NuPI=",
   "success": true,
   "projectFilePath": "A:\\Personal Projects\\Snowboard Weather\\SkiWeather\\SkiWeather.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\randa\\.nuget\\packages\\google.flatbuffers\\24.3.25\\google.flatbuffers.24.3.25.nupkg.sha512",
     "C:\\Users\\randa\\.nuget\\packages\\openmeteo\\1.0.1\\openmeteo.1.0.1.nupkg.sha512",
     "C:\\Users\\randa\\.nuget\\packages\\openmeteo_sdk\\1.11.3\\openmeteo_sdk.1.11.3.nupkg.sha512",
-    "C:\\Users\\randa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\randa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
-    "C:\\Users\\randa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+    "C:\\Users\\randa\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\randa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",
+    "C:\\Users\\randa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.23\\microsoft.aspnetcore.app.ref.8.0.23.nupkg.sha512"
   ],
   "logs": []
 }
