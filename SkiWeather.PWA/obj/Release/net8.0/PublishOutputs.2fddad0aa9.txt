@@ -1,0 +1,3 @@
+A:\Personal Projects\Snowboard Weather\publish\wwwroot\index.html
+A:\Personal Projects\Snowboard Weather\publish\emcc-props.json
+A:\Personal Projects\Snowboard Weather\publish\web.config

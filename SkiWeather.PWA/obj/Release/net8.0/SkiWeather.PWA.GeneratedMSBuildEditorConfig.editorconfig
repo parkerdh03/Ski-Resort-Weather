@@ -1,0 +1,59 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = SkiWeather.PWA
+build_property.RootNamespace = SkiWeather.PWA
+build_property.ProjectDir = A:\Personal Projects\Snowboard Weather\SkiWeather.PWA\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = A:\Personal Projects\Snowboard Weather\SkiWeather.PWA
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[A:/Personal Projects/Snowboard Weather/SkiWeather.PWA/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Personal Projects/Snowboard Weather/SkiWeather.PWA/Components/ResortCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZXNvcnRDYXJkLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Personal Projects/Snowboard Weather/SkiWeather.PWA/Pages/NotFound.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Personal Projects/Snowboard Weather/SkiWeather.PWA/Pages/Resorts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Personal Projects/Snowboard Weather/SkiWeather.PWA/Pages/ResortWeather.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVzb3J0V2VhdGhlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Personal Projects/Snowboard Weather/SkiWeather.PWA/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[A:/Personal Projects/Snowboard Weather/SkiWeather.PWA/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-eb1n0i2zea
+
+[A:/Personal Projects/Snowboard Weather/SkiWeather.PWA/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ng0ovlsxzd
